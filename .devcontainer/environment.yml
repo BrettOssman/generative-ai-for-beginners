@@ -1,0 +1,9 @@
+```yml
+name: BrettConda
+channels:  
+ - defaults
+dependencies:  
+- python=3.12.2  
+- openai  
+- python-dotenv
+```
