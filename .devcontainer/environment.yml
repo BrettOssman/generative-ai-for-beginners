@@ -1,9 +1,7 @@
-```yml
-name: BrettConda
+name: ai4beg
 channels:  
  - defaults
 dependencies:  
-- python=3.12.2  
+- python=3.12
 - openai  
 - python-dotenv
-```
